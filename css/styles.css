@@ -1,0 +1,17 @@
+/* Your Website Styles */
+h1 {
+	font-family: 'Faster+One', cursive;
+}
+
+h3 {
+	font-family: 'Fontdiner+Swanky', cursive;
+}
+
+p {
+	font-family: 'Fontdiner+Swanky';
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
